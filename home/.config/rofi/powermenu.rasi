@@ -1,0 +1,43 @@
+@import "colors.rasi"
+
+* {
+    background-color: @background; 
+    color: @lightfg;
+    font: "DejaVuSans 9";
+}
+
+#window {
+    location: north east;
+    width: 390px;
+    padding: -6px 0px;
+    children: [horibox];
+}
+
+#horibox {
+    orientation: horizontal;
+    children:   [listview];
+}
+
+#listview {
+    layout: horizontal;
+    padding: 0px 0px;
+    spacing: 2px;
+    lines: 50;
+}
+
+#element {
+    margin: 3px 5px;
+    padding: 6px 4px;
+}
+ 
+#element selected {
+    color: @foreground;
+}
+
+#button {
+    font: "DejaVuSans 9 ";
+    width: 12;
+    text-color: @foreground;
+}
+
+

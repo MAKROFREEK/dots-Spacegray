@@ -1,0 +1,17 @@
+
+{
+  "name": "Spacegray",
+  "colors": {
+    "--color-long-round": "#8FA1B3",
+    "--color-short-round": "#D08770",
+    "--color-focus-round": "#99C794",
+    "--color-foreground-darker": "#EBCB8B",
+    "--color-background": "#2B303B",
+    "--color-background-light": "#4a5266",
+    "--color-background-lightest": "#65737E",
+    "--color-foreground": "#C0C5CE",
+    "--color-foreground-darker": "#65737E",
+    "--color-foreground-darkest": "#4a5266",
+    "--color-accent": "#99C794"
+  }
+}

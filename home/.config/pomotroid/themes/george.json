@@ -1,0 +1,16 @@
+
+{
+  "name": "George",
+  "colors": {
+    "--color-long-round":             "#5d7ca2",
+    "--color-short-round":            "#ba1a0a",
+    "--color-focus-round":            "#2c403c",
+    "--color-background":             "#d8d8c7",
+    "--color-background-light":       "#6C6E68",
+    "--color-background-lightest":    "#47474f",
+    "--color-foreground":             "#47474f",
+    "--color-foreground-darker":      "#201723",
+    "--color-foreground-darkest":     "#150f17",
+    "--color-accent":                 "#6C6E68"
+  }
+}

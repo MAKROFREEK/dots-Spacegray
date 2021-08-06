@@ -1,0 +1,16 @@
+
+{
+  "name": "shack",
+  "colors": {
+    "--color-long-round": "#849bb1",
+    "--color-short-round": "#98b7a4",
+    "--color-focus-round": "#a34142",
+    "--color-background": "#171a26",
+    "--color-background-light": "#31384c",
+    "--color-background-lightest": "#50566d",
+    "--color-foreground": "#e9d9d3",
+    "--color-foreground-darker": "#A18C8B",
+    "--color-foreground-darkest": "#786867",
+    "--color-accent": "#a34142"
+  }
+}
