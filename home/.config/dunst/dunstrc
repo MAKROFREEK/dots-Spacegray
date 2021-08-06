@@ -5,12 +5,12 @@
     separator_height = 1
     padding = 4
     horizontal_padding = 20
-    corner_radius = 12
+    corner_radius = 11
     #enables the frame
     frame_width = 0
     sort = yes
     idle_threshold = 120
-    font = DejaVu Sans Mono:pixelsize 10
+    font = DejaVu Sans Mono:pixelsize 9.5
     line_height = 4
     allow_markup = yes
     markup = full
@@ -46,15 +46,15 @@ separator_color = "#000"
 
 [low]
     msg_urgency = low
-    background = "#2B303B"
+    background = "#21252e"
     foreground = "#C0C5CE"
 
 [normal]
     msg_urgency = normal
-    background = "#2B303B"
+    background = "#21252e"
     foreground = "#C0C5CE"
 
 [critical]
     msg_urgency = critical
-    background = "#2B303B"
+    background = "#21252e"
     foreground = "#BF616A"
