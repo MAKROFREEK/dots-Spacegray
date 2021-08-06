@@ -14,9 +14,7 @@ No extra changes for GTK needed, for QT I recommend plastique. If youre on arch 
 
 ## Boot 
 
-I provided a grub theme (mostly just colors but hey its consistent with the theme)
-
-If you're not comfortable changing this I wouldn't even bother. It's a bit of a hassle.
+No boot theme this time
 
 ## Notes
 
