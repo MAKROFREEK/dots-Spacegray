@@ -12,14 +12,9 @@ I provide GTK and QT options.
 No extra changes for GTK needed, for QT I recommend plastique. If youre on arch [aur/qt5-styleplugins-git]
 
 
-## Boot 
+## INSTALLATION GUIDE
+https://github.com/LetsHaveKiddos/installation-guide
 
-No boot theme this time
-
-## Notes
-
-I recommend going through and changing the "monitor: DP-2" or any variation of this and using "xrandr" to change to your monitor(s).   
-I'm super OCD and like my rofi/dunst/polybar to spawn only on one of my monitors. I'm not sure everything you should look at but rofi/polybar/i3 are for sure you should look in the configs. 
 
 ## Enjoy
 
