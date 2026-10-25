@@ -1,22 +1,20 @@
-MAKROFREEK | Spacegray
-===========================
-An old colorscheme with a new bubbly interface. I wanted something different. So I made something different.
-
-I provided a couple different variations of the background.
-
-## Tools used
-i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
-
-I provide GTK and QT options.
-
-No extra changes for GTK needed, for QT I recommend plastique. If youre on arch [aur/qt5-styleplugins-git]
-
-
-## INSTALLATION GUIDE
-https://github.com/LetsHaveKiddos/installation-guide
-
-
-## Enjoy
+**Dependencies**:
+* Kitty
+* Dunst
+* Polybar
+* betterlockscreen
+* i3lock-fancy
+* i3-gaps
+* rofi
+* picom-ibhagwan-git
+**OPTIONAL**
+* BetterDiscord
+* Discord
+* Sublime
+* Spotify
+* Thunar
+* Zathura
+* Neovim
 
 ## Screens:
 
